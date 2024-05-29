@@ -1,6 +1,4 @@
-Data visualisation 
-
-
+ 
 import matplotlib.pyplot as pit import numpy as np
 
 xpoints = np.array([0, 6])
